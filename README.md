@@ -5,3 +5,4 @@ using dataset called 3-kinds-of-pneumonia consist of 9208 image with 4 classes c
 2-Normal
 3-Pneumonia-Bacterial
 4-Pneumonia-Viral
+with accuracy 95% in train and 88% in test
